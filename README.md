@@ -15,3 +15,11 @@
 ## 03 Developer Skills & Editor Setup
 
 ## 04 JavaScript in the Browser: DOM and Events Fundamentals
+
+✅ [DOM Manipulation and Events Note](/05-Guess-My-Number/04_DOM_Manipulation.md)
+
+✅ [Project #1 - Guess My Number](/05-Guess-My-Number/starter/)
+
+✅ [Project #2 - Modal](/06-Modal/starter/)
+
+✅ [Project #3 - Pig Game](/07-Pig-Game/starter/)
