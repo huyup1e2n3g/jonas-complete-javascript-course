@@ -23,3 +23,7 @@
 ✅ [Project #2 - Modal](/06-Modal/starter/)
 
 ✅ [Project #3 - Pig Game](/07-Pig-Game/starter/)
+
+## 05 How JavaScript Works Behind the Scenes
+
+✅ [How JavaScript Works Behind the Scenes Note](/08-Behind-the-Scenes/05_Notes.md)
