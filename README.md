@@ -27,3 +27,7 @@
 ## 05 How JavaScript Works Behind the Scenes
 
 ✅ [How JavaScript Works Behind the Scenes Note](/08-Behind-the-Scenes/05_Notes.md)
+
+## 06 Data Structures, Modern Operators and Strings
+
+✅ [Data Structures, Modern Operators and Strings Note](09-Data-Structures-Operators/06_Notes.md)
