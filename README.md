@@ -30,4 +30,12 @@
 
 ## 06 Data Structures, Modern Operators and Strings
 
-✅ [Data Structures, Modern Operators and Strings Note](09-Data-Structures-Operators/06_Notes.md)
+✅ [Data Structures, Modern Operators and Strings Note](/09-Data-Structures-Operators/06_Notes.md)
+
+## 07 A Closer Look at Functions
+
+✅ [A Closer Look at Functions Note](/10-Functions/07_Notes.md)
+
+## 08 Working With Arrays
+
+✅ [Working With Arrays Note](/11-Arrays-Bankist/08_Notes.md)
